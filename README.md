@@ -30,3 +30,7 @@ Proiectare cu microprocesoare
 Daca se doreste reantrenarea mdelului pe alt set de date, acesta trebuie urcat intai in google drive. Modelul este antrenat in drive folosing platforma Google CoLab. Se ruleaza sectiunea 5 si 6, care scaleaza pozele si salveaza un fisier binar cu toate. Procesul acesta poate dura pana la 5 ore, in functie de dimensiunea setului de date. Fiind vorba de o retea neuronala, nu are sens sa se foloseasca seturi de date mici.
 
 2. Rezultate
+	![](images/train-3.png)
+	![](images/train-4.png)
+	![](images/train-5.png)
+	
