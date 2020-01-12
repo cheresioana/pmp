@@ -1,6 +1,7 @@
 # pmp
 Proiectare cu microprocesoare
-##Robot care ocoleste obstacole
+
+## Robot care ocoleste obstacole
 
 1. Schema
    ![](images/robot.jpg)
