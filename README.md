@@ -21,7 +21,7 @@ Proiectare cu microprocesoare
 
 ## GAN (generative adversarial network)
 
-1. Schema
+1. Schema si principiul de functionare
    ![](images/sa.png)
    - generatorul inceraca sa genereze imagini astfel incat sa pacaleasca discriminatorul. Ia ca si input un random noise si genereaza un array bidimensional de valori, adica o imagine random
    - discriminatorul primeste ca input falsuri (de la generator) si poze reale. El are ca output o valuare intre 0 si 1 care semnifica probabilitatea ca poza sa fie un fals. 
