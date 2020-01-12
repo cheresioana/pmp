@@ -24,4 +24,4 @@ Proiectare cu microprocesoare
 1. Schema
    ![](images/sa.png)
    - In cazul in care se foloseste modelul deja antrenat, trebuie rulata doar ultima parte (train(train_dataset, EPOCHS)).
-In cazul in care se doreste reantrenarea mdelului pe alt set de date, acesta trebuie urcat intai in google drive. Modelul este antrenat in drive folosing platforma Google CoLab. Se ruleaza sectiunea 5 si 6, care scaleaza pozele si salveaza un fisier binar cu toate. Procesul acesta poate dura pana la 5 ore, in functie de dimensiunea setului de date. Fiind vorba de o retea neuronala, nu are sens sa se foloseasca seturi de date mici.
+Daca se doreste reantrenarea mdelului pe alt set de date, acesta trebuie urcat intai in google drive. Modelul este antrenat in drive folosing platforma Google CoLab. Se ruleaza sectiunea 5 si 6, care scaleaza pozele si salveaza un fisier binar cu toate. Procesul acesta poate dura pana la 5 ore, in functie de dimensiunea setului de date. Fiind vorba de o retea neuronala, nu are sens sa se foloseasca seturi de date mici.
