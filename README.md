@@ -2,19 +2,19 @@
 Proiectare cu microprocesoare
 
 ## Robot care ocoleste obstacole
-
-1. Schema
+1. Cerinte
+   - Sa se construiasca si programeze un robot care sa ocoleasca obstacolele
+2. Schema
    ![](images/robot.jpg)
-2. Utilizare
+3. Utilizare
    - Se ruleaza codul in Arduino si se urca pe placuta. Mai departe robotul ruleaza independent.
-3. Specificatii
+4. Specificatii
    - Placa Arduino uno
    - Senzor ultrasonic
    - Servo
    - Doua motoare
    - H-bridge
-4. Explicatii
-
+5. Explicatii
    - Senzorul ultrasonic trimite un semnal, care este controlat de trigPin. Acesta asteapta pana cand unda se intoarce, iar senzorul returneaza timpul intre momentul in care s-a trimis semnalul si momentul in care a receptionat intoarcerea semnalului. Stiind viteza cu care este propagata unda (viteza sunetului) si timpul, se poate calcula distanta parcursa.
    - distanta = viteza * timp
 	- In functie de distanta la care se afla obiectul in fata robotului acesta poate sa: mearga in fata, vireze la dreapta, vireze la stanga.
