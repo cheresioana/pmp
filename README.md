@@ -7,7 +7,7 @@ Proiectare cu microprocesoare
    ![](images/robot.jpg)
 2. Utilizare
    - Se ruleaza codul in Arduino si se urca pe placuta. Mai departe robotul ruleaza independent.
-3. Componente
+3. Specificatii
    - Placa Arduino uno
    - Senzor ultrasonic
    - Servo
