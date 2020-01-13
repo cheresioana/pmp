@@ -32,7 +32,12 @@ Proiectare cu microprocesoare
    - In cazul in care se foloseste modelul deja antrenat, trebuie rulata doar ultima parte (train(train_dataset, EPOCHS)).
 Daca se doreste reantrenarea mdelului pe alt set de date, acesta trebuie urcat intai in google drive. Modelul este antrenat in drive folosing platforma Google CoLab. Se ruleaza sectiunea 5 si 6, care scaleaza pozele si salveaza un fisier binar cu toate. Procesul acesta poate dura pana la 5 ore, in functie de dimensiunea setului de date. Fiind vorba de o retea neuronala, nu are sens sa se foloseasca seturi de date mici.
 
-5. Rezultate
+5. Specificatii
+   - Proiectul ruleaza in Google CoLab
+   - La setari trebuie aleasa varianta de GPU (ruleaza si pe GPU in 12 ore)
+   - pc-ul pe care ruleaza trebuie sa aiba python si tensorflow
+   
+6. Rezultate
 	![](images/train-3.png)
 	![](images/train-4.png)
 	![](images/train-5.png)
