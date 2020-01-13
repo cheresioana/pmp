@@ -34,7 +34,7 @@ Daca se doreste reantrenarea mdelului pe alt set de date, acesta trebuie urcat i
 
 5. Specificatii
    - Proiectul ruleaza in Google CoLab
-   - La setari trebuie aleasa varianta de GPU (ruleaza si pe GPU in 12 ore)
+   - La setari trebuie aleasa varianta de GPU (ruleaza si pe CPU in 12 ore)
    - pc-ul pe care ruleaza trebuie sa aiba python si tensorflow
    
 6. Rezultate
